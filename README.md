@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Unaccountable
+- 👋 Hi, I’m @Unaccountable (not entirely unaccountable in reality though)
 - 👀 I’m interested in networking & swimming
 - 🌱 I’m currently learning web developement and coding basics
 - 💞️ I’m looking to collaborate on whatever you want to steal/update from my repos
